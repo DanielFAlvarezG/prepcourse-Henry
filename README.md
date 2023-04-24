@@ -1,2 +1,3 @@
-# prepcourse-Henry
-repositorio de prueba para modulo 2 del prepcourse de henry 
+Daniel alvarez G    
+este es un proyecto de prueba de como crear un repositorio y clonarlo desde githube a mi computadora local
+
